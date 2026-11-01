@@ -1,0 +1,13 @@
+{
+  "cv_mae": 2228.63,
+  "test_mae": 1600.92,
+  "test_rmse": 3302.73,
+  "test_r2": 0.9243,
+  "best_params": {
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "min_samples_leaf": 5,
+    "n_estimators": 100,
+    "subsample": 1.0
+  }
+}
